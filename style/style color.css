@@ -1,0 +1,104 @@
+div{
+ text-align: center;
+    
+}
+.offer{
+    color: #F00;
+text-align: center;
+font-size: 88px;
+font-weight: 700;
+border-radius: 10px;
+text-align: center;
+}
+#ing{
+    color: #FF0000;
+}
+#size{
+    font-size: 30px;
+    color: #070211;
+}
+.fit{
+    display: inherit;
+}
+.red{
+    color: orangered;
+}
+.back{
+    font-size: 20px;
+    height: 482px;
+    background-color: antiquewhite;
+}
+.whaite{
+    border-radius: 8px;
+    background: #F00;
+    color: azure;
+    text-align: center;
+}
+.none{
+    text-align: left; 
+    
+}
+.noni{
+    color: #F00;
+    text-align: left;
+}
+.drop{
+    border-radius: 463px;
+border: 15px solid #F00;
+width: 463px;
+height: 463px;
+}
+.solt{
+    color: #F00;
+    text-align: right;
+}
+.solid{
+    text-align: right;
+}
+.hol{
+    color: #F00;
+}
+.ebook{
+    display: inline-block;
+}
+.put{
+    color: #FF0000;
+    text-align: left;
+
+}
+.right{
+    text-align: left;
+}
+.got{
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+.good{
+    border-radius: 50px;
+    background: #FFF;
+}
+.nij-work{
+    background-color: #F00;
+    border-radius: 50px;
+}
+.center{
+    text-align: center;
+    background-color: #070211;
+   
+}
+.op-v{
+    text-align: left;
+    color: #FFF;
+}
+.how{
+    border-right: #FFF;
+}
+.bddo{
+    color: #FFF;
+    text-align: left;
+}
+.bddos{
+    color: #FFF;
+    text-align: right;
+}
+    
